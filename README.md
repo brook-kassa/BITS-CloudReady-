@@ -1,4 +1,4 @@
-# BITS-CloudReady-
+# BITS CloudReady™ – Simulated Business Network on AWS
 BITS CloudReady™ is a fully simulated business network on AWS. Built with secure VPC architecture, public/private subnets, compute, databases, IAM, monitoring, and failover, it demonstrates how Brooks IT Services delivers scalable, cost-optimized, and reliable cloud solutions for clients.
 
 Project Overview
@@ -22,7 +22,7 @@ It implements real-world AWS architecture patterns for public web hosting, priva
 
 ---
 
-## 🛠 AWS Services Used
+## AWS Services Used
 
 | Service        | Purpose |
 |----------------|---------|
