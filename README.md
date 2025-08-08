@@ -1,14 +1,23 @@
 # BITS CloudReady™ – Simulated Business Network on AWS
-BITS CloudReady™ is a fully simulated business network on AWS. Built with secure VPC architecture, public/private subnets, compute, databases, IAM, monitoring, and failover, it demonstrates how Brooks IT Services delivers scalable, cost-optimized, and reliable cloud solutions for clients.
+BITS CloudReady™ is a fully simulated business network I built on AWS to show exactly what I can create for my clients. Using secure VPC architecture, public and private subnets, compute, databases, IAM, monitoring, and failover, it’s a live example of how I deliver scalable, cost-optimized, and reliable cloud solutions through Brooks IT Services.
 
 Project Overview
 
-This project simulates the cloud migration of a fictional mid-sized business.  
-It implements real-world AWS architecture patterns for public web hosting, private backend systems, secure connectivity, monitoring, and failover.
+This project simulates the cloud migration of a fictional mid-sized company, using the same AWS patterns and best practices I apply for real clients.
+
+Whether you’re moving your first workloads to the cloud or upgrading an existing setup, this environment shows exactly how I can help you:
+
+* Host your public-facing applications and websites.
+
+* Keep sensitive data in secure, private backend systems.
+
+* Protect your business with security best practices and controlled access.
+
+* Monitor performance and costs so your infrastructure stays healthy and efficient.
 
 ## Architecture
 
-**Key Features:**
+**Key Features I’ve Implemented:**
 - Multi-tier **VPC architecture** with public/private subnets
 - **Public-facing web tier** (S3 + CloudFront + Route 53)
 - **Private compute tier** (EC2/Lambda)
@@ -18,19 +27,16 @@ It implements real-world AWS architecture patterns for public web hosting, priva
 - **Failover** using Route 53 health checks
 - **Cost optimization** with AWS Budgets and tagging
 
-![Architecture Diagram](docs/architecture-diagram.png)
-
----
 
 ## AWS Services Used
 
 | Service        | Purpose |
 |----------------|---------|
-| Amazon VPC     | Network isolation & routing |
-| EC2 / Lambda   | Compute for backend |
-| S3 + CloudFront| Static site hosting & caching |
-| Amazon RDS     | Database tier |
-| IAM            | Secure access control |
-| Route 53       | DNS + failover |
-| CloudWatch     | Monitoring & alarms |
-| AWS Budgets    | Cost control |
+| Amazon VPC     | To isolate resources, control traffic flow, and securely connect services. |
+| EC2 / Lambda   | To host backend services in a controlled, private environment. |
+| S3 + CloudFront| To serve static website content quickly and securely around the world. |
+| Amazon RDS     | To store and manage structured business data with encryption. |
+| IAM            | To enforce least-privilege access for users and applications. |
+| Route 53       | To manage DNS and enable automated failover. |
+| CloudWatch     | To track performance, create alarms, and analyze logs. |
+| AWS Budgets    | To keep cloud costs visible and under control. |
