@@ -3,7 +3,7 @@
 
 
 
-| Element                    | What to decide                                                                                                                                           | 
+| Characteristics                    | Specifics                                                                                                                                         | 
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | **Company name & brand**   | BluePort Cargo, logo, "On Time. Every Time."                                                                                                             | 
 | **Industry**               | Logistics & Freight                                                                                                                                      |
