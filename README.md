@@ -16,6 +16,7 @@ Whether you’re moving your first workloads to the cloud or upgrading an existi
 * Monitor performance and costs so your infrastructure stays healthy and efficient.
 
 ## Architecture
+<img width="4829" height="3296" alt="BluePort Cargo Diagram (4)" src="https://github.com/user-attachments/assets/6d55bdcf-83ff-48e5-b6a2-21ef88892741" />
 
 **Key Features I’ve Implemented:**
 - Multi-tier **VPC architecture** with public/private subnets
