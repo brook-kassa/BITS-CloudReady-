@@ -1,5 +1,5 @@
 # BITS CloudReady™ – Simulated Business Network on AWS
-BITS CloudReady™ is a fully simulated business network I built on AWS to show exactly what I can create for my clients. Using secure VPC architecture, public and private subnets, compute, databases, IAM, monitoring, and failover, it’s a live example of how I deliver scalable, cost-optimized, and reliable cloud solutions through **[Brook's IT Services](https://brookkassa.com)**.
+BITS CloudReady™ is a fully simulated business network I built on AWS to show exactly what I can create for my clients. Using secure VPC architecture, public and private subnets, compute, databases, IAM, monitoring, and failover, it’s a live example of how I deliver scalable, cost-optimized, and reliable cloud solutions through **[Brook's IT Services]([https://brookkassa.com](https://www.brookkassa.com))**.
 
 ## Project Overview
 
