@@ -21,8 +21,7 @@ Whether you're migrating to the cloud for the first time or modernizing an exist
 
 | Characteristics                    | Specifics                                                                                                                                         | 
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-
-| **Company name & brand**   | BluePort Cargo _"On Time. Every Time."_                                                                                                                  | 
+| **Company name & brand**   | BluePort Cargo, logo, "On Time. Every Time."                                                                                                             | 
 | **Industry**               | Logistics & Freight                                                                                                                                      |
 | **Size**                   | 250 employees, 3 main offices (Nairobi, Djibouti City, Cairo) and 1 satellite office (Addis Ababa)                                                       |
 | **Locations**              | Offices in Nairobi, Djibouti City, Cairo, and Addis Ababa (satellite)                                                                                    |
@@ -30,7 +29,6 @@ Whether you're migrating to the cloud for the first time or modernizing an exist
 | **Pain points**            | High latency, unreliable hosting, costly IT                                                                                                              | 
 | **Technical requirements** | PostgreSQL database for shipment tracking, VPN for office connectivity, IAM roles for regional staff access                                              |
 | **Compliance needs**       | GDPR, PCI-DSS, ISO 27001, and data protection best practices                                                                                             | 
-
 ## Architecture
 <img width="4760" height="3300" alt="BluePort Cargo Diagram (6)" src="https://github.com/user-attachments/assets/b6a71de5-8dd5-42e3-af5a-7a4c67367da5" />
 
