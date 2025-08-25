@@ -28,18 +28,6 @@ Whether you're migrating to the cloud for the first time or modernizing an exist
 - **Monitoring & logging** (CloudWatch, VPC Flow Logs)
 - **Failover** using Route 53 health checks
 - **Cost optimization** with AWS Budgets and tagging
-## Quick tour
-
-<p align="center">
-  <a href="docs/images/03-vpc-resource-map.png"><img src="docs/images/03-vpc-resource-map.png" width="360" alt="VPC resource map across 3 AZs"></a>
-  <a href="docs/images/05a-route-table-public.png"><img src="docs/images/05a-route-table-public.png" width="360" alt="Public route table (0.0.0.0/0 → IGW)"></a>
-</p>
-<p align="center">
-  <a href="docs/images/07-ec2-instances.png"><img src="docs/images/07-ec2-instances.png" width="360" alt="EC2 instances across eu-west-1a/1b"></a>
-  <a href="docs/images/11b-cloudwatch-rds.png"><img src="docs/images/11b-cloudwatch-rds.png" width="360" alt="CloudWatch RDS metrics"></a>
-</p>
-
-➡️ See the full gallery in **[docs/screenshots.md](docs/screenshots.md)**.
 
 
 ## AWS Services Used
