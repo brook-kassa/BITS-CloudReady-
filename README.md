@@ -22,8 +22,7 @@ Whether you're migrating to the cloud for the first time or modernizing an exist
 | Characteristics                    | Specifics                                                                                                                                         | 
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 
-| **Company name & brand**   | BluePort Cargo _"On Time. Every Time."_    ![favicon](https://github.com/user-attachments/assets/e5a154cc-3a9a-4b0f-893d-0d0017d38691)
-                                                                                                         | 
+| **Company name & brand**   | BluePort Cargo _"On Time. Every Time."_                                                                                                                  | 
 | **Industry**               | Logistics & Freight                                                                                                                                      |
 | **Size**                   | 250 employees, 3 main offices (Nairobi, Djibouti City, Cairo) and 1 satellite office (Addis Ababa)                                                       |
 | **Locations**              | Offices in Nairobi, Djibouti City, Cairo, and Addis Ababa (satellite)                                                                                    |
