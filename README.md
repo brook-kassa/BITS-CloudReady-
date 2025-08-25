@@ -16,7 +16,8 @@ Whether you're migrating to the cloud for the first time or modernizing an exist
 * Monitor performance and costs so your infrastructure stays healthy and efficient.
 
 ## Architecture
-<img width="100%" alt="BITS CloudReady Architecture Diagram" src="(https://lucid.app/lucidchart/4b5e563e-1722-43ed-89d6-b8d313a0b988/edit?viewport_loc=-1507%2C-265%2C3585%2C3426%2C0_0&invitationId=inv_0a811fac-cf71-400b-96c0-86c86c159e95)" />
+<img width="4760" height="3300" alt="BluePort Cargo Diagram (6)" src="https://github.com/user-attachments/assets/b6a71de5-8dd5-42e3-af5a-7a4c67367da5" />
+" />
 
 **Key Features I’ve Implemented:**
 - Multi-tier **VPC architecture** with public/private subnets
