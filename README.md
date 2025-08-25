@@ -17,7 +17,7 @@ Whether you're migrating to the cloud for the first time or modernizing an exist
 
 ## Architecture
 <img width="4760" height="3300" alt="BluePort Cargo Diagram (6)" src="https://github.com/user-attachments/assets/b6a71de5-8dd5-42e3-af5a-7a4c67367da5" />
-" />
+
 
 **Key Features I’ve Implemented:**
 - Multi-tier **VPC architecture** with public/private subnets
